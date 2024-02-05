@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>labelCacheCleanUpExecuted=true</attributes>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>testing_tig</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Testing TIG</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 00:06:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0cad23d793848e50e6883a4efaba1046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing TIG</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPInfo Spoke" source="x_862716_ipinfo_sp">6184931b93808e50e6883a4efaba1024</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">6184931b93808e50e6883a4efaba1024</sys_scope>
+        <sys_update_name>sys_hub_flow_0cad23d793848e50e6883a4efaba1046</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 00:06:08</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_variable_value action="DELETE" query="document_key=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_trigger_instance action="DELETE" query="flow=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_flow_stage action="DELETE" query="flow=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=0cad23d793848e50e6883a4efaba1046^sys_idNOT INccad271f93848e50e6883a4efaba10ea"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>0cad23d793848e50e6883a4efaba1046</id>
+        <name>Testing TIG</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 00:06:08</sys_created_on>
+        <sys_id>ccad271f93848e50e6883a4efaba10ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 00:06:08</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="DELETE" query="flow_catalog_model=ccad271f93848e50e6883a4efaba10ea"/>
+    <sys_hub_flow_input action="DELETE" query="model=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_flow_output action="DELETE" query="model=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_alias_mapping action="DELETE" query="source_id=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_action_instance action="DELETE" query="flow=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_sub_flow_instance action="DELETE" query="flow=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_flow_logic action="DELETE" query="flow=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_hub_flow_variable action="DELETE" query="model=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_input_0cad23d793848e50e6883a4efaba1046"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_input_0cad23d793848e50e6883a4efaba1046"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_output_0cad23d793848e50e6883a4efaba1046"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_output_0cad23d793848e50e6883a4efaba1046"/>
+    <sys_flow_trigger_plan action="DELETE" query="plan_id=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_flow_subflow_plan action="DELETE" query="plan_id=0cad23d793848e50e6883a4efaba1046"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPInfo Spoke">6184931b93808e50e6883a4efaba1024</application>
+        <file_path/>
+        <instance_id>92e044ffdb3d399005ef1729139619dc</instance_id>
+        <instance_name>dev188319</instance_name>
+        <name>sys_hub_flow_0cad23d793848e50e6883a4efaba1046</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><attributes>labelCacheCleanUpExecuted=true</attributes><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><internal_name>testing_tig</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>Testing TIG</name><natlang/><outputs/><pre_compiled>false</pre_compiled><remote_trigger_id/><run_as>user</run_as><run_with_roles/><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-05 00:06:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0cad23d793848e50e6883a4efaba1046</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Testing TIG</sys_name><sys_overrides/><sys_package display_value="IPInfo Spoke" source="x_862716_ipinfo_sp">6184931b93808e50e6883a4efaba1024</sys_package><sys_policy/><sys_scope display_value="IPInfo Spoke">6184931b93808e50e6883a4efaba1024</sys_scope><sys_update_name>sys_hub_flow_0cad23d793848e50e6883a4efaba1046</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-05 00:06:08</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=0cad23d793848e50e6883a4efaba1046"/><sys_variable_value action="delete_multiple" query="document_key=0cad23d793848e50e6883a4efaba1046"/><sys_hub_trigger_instance action="delete_multiple" query="flow=0cad23d793848e50e6883a4efaba1046"/><sys_hub_flow_stage action="delete_multiple" query="flow=0cad23d793848e50e6883a4efaba1046"/><sys_flow_cat_variable_model action="delete_multiple" query="id=0cad23d793848e50e6883a4efaba1046^sys_idNOT INccad271f93848e50e6883a4efaba10ea"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>0cad23d793848e50e6883a4efaba1046</id><name>Testing TIG</name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-05 00:06:08</sys_created_on><sys_id>ccad271f93848e50e6883a4efaba10ea</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-05 00:06:08</sys_updated_on></sys_flow_cat_variable_model><sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=ccad271f93848e50e6883a4efaba10ea"/><sys_hub_flow_input action="delete_multiple" query="model=0cad23d793848e50e6883a4efaba1046"/><sys_hub_flow_output action="delete_multiple" query="model=0cad23d793848e50e6883a4efaba1046"/><sys_hub_alias_mapping action="delete_multiple" query="source_id=0cad23d793848e50e6883a4efaba1046"/><sys_hub_action_instance action="delete_multiple" query="flow=0cad23d793848e50e6883a4efaba1046"/><sys_hub_sub_flow_instance action="delete_multiple" query="flow=0cad23d793848e50e6883a4efaba1046"/><sys_hub_flow_logic action="delete_multiple" query="flow=0cad23d793848e50e6883a4efaba1046"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=0cad23d793848e50e6883a4efaba1046"/><sys_hub_flow_variable action="delete_multiple" query="model=0cad23d793848e50e6883a4efaba1046"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_0cad23d793848e50e6883a4efaba1046"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_0cad23d793848e50e6883a4efaba1046"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_0cad23d793848e50e6883a4efaba1046"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_0cad23d793848e50e6883a4efaba1046"/><sys_flow_trigger_plan action="delete_multiple" query="plan_id=0cad23d793848e50e6883a4efaba1046"/><sys_flow_subflow_plan action="delete_multiple" query="plan_id=0cad23d793848e50e6883a4efaba1046"/></record_update>]]></payload>
+        <payload_hash>1923635198</payload_hash>
+        <record_name>Testing TIG</record_name>
+        <reverted_from/>
+        <source>ae06131793c08e50e6883a4efaba109d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 00:06:08</sys_created_on>
+        <sys_id>04ad271f93848e50e6883a4efaba10f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d769629570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 00:06:08</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>48ad271f43848e50f8ee9bc6258706f0</update_guid>
+        <update_guid_history>48ad271f43848e50f8ee9bc6258706f0:1923635198</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 00:39:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>3460e266cf2748b4ba83768839104ec4</sys_id>
+        <sys_metadata>0cad23d793848e50e6883a4efaba1046</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing TIG</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_862716_ipinfo_sp">6184931b93808e50e6883a4efaba1024</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">6184931b93808e50e6883a4efaba1024</sys_scope>
+        <sys_scope_delete display_value="">c742e762202742329b1ec2fb7b6c8764</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_0cad23d793848e50e6883a4efaba1046</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_0cad23d793848e50e6883a4efaba1046">04ad271f93848e50e6883a4efaba10f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 00:39:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
